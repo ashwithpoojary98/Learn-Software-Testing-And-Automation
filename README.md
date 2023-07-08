@@ -2,4 +2,4 @@
 Collections of software testing tools, framework
 
 ## Software Testing
-[Software Testing]("./docs/basic/softwaretesting.md")
+[Software Testing]("/docs/basic/softwaretesting.md")
